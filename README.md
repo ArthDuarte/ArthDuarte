@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as FullStack Developer, using Front-End technologies, such as JavaScript with React, to Back-End, with Node.Js, C#, Database MySQL and DevOps cycles.<br>🌱 I’m currently learning Golang, TypeScript specialization and more DevOps. <br>💼 Looking to new job opportunities starting starting as soon as possible.<br>📫 How to reach me: aduartec1@gmail.com (my professional email) or Dm me on LinkedIn<br>🔣 Languages, :<br>      🇧🇷 Portuguese(Native)<br>      🇺🇸 English(fluent)
+🔭 I'm currently looking for a new opportunity that uses frontend languages ​​with Angular and TypeScript and backend with C# in the .Net environment. With the help of SQL Server.<br>🌱 I am currently studying more about the entire Microsoft environment, such as Azure and Blazor, and also improving aspects of the DevOps field. <br>💼 Looking to new job opportunities starting as soon as possible.<br>📫 How to reach me: aduartec1@gmail.com (my professional email) or Dm me on LinkedIn<br>🔣 Languages, :<br>      🇧🇷 Portuguese(Native)<br>      🇺🇸 English(fluent)
 
 
 ## 🌐 Socials:
